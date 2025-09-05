@@ -14,3 +14,8 @@ Ele contém três componentes principais:
 ### 1. Instalar dependências
 ```bash
 npm install
+```
+### 2. Rodar o projeto
+```bash
+npm run dev
+```
